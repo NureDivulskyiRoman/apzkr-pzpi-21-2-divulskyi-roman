@@ -1,0 +1,10 @@
+export const REACT_APP_API_URL = "https://localhost:5001/";
+export const MAIN_ROUTE = '/';
+export const NO_ROUTE = '*';
+export const FARM_PLOTS_ROUTE = '/plots'
+export const IRRIGATION_DEVICE_ROUTE = '/devices'
+export const SHEDULE_ROUTE = '/shedules'
+export const SENSOR_ROUTE = '/sensors'
+export const WATER_RESOURCE_ROUTE = '/resources'
+export const WEATHER_CONDITIONS_ROUTE = '/conditions'
+export const CHARTS_ROUTE = '/charts'
